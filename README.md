@@ -47,10 +47,12 @@
 * 반면 20대 인구는 감소하고 있어, 장기적 인구 불균형 문제 우려되고 있습니다.
 
   ##### 천안시 청년 인구수 변화
-<img width="719" height="540" alt="image" src="https://github.com/user-attachments/assets/3328169d-06f0-4676-b379-ccc49a4b2a9d" />
+<img width="635" height="545" alt="image" src="https://github.com/user-attachments/assets/328b042b-c9c7-46de-8246-4d2450e6f88f" />
+
+
 
   ##### 천안시 노년 인구수 변화
-<img width="536" height="402" alt="image" src="https://github.com/user-attachments/assets/455f9a1b-962e-443f-a740-4bda5e843981" />
+<img width="676" height="580" alt="image" src="https://github.com/user-attachments/assets/6267bec0-8e8d-425d-ab45-073a3bcf339d" />
 
 
 ### ✔ 3-2. 성별 고령 인구 특성
